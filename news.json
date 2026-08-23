@@ -4,8 +4,14 @@
     {
       "title": "Обновление v1.0",
       "date": "2026-08-23",
-      "image": "https://drive.google.com/file/d/1pV296qtRvC5gIX21nLwK4ZheyKw_wuGT/view?usp=sharing",
+      "image": "",
       "text": "Добавлен прикол с уязвимостью на GambitRP"
+    },
+    {
+      "title": "Счетчик арестов",
+      "date": "2026-08-24",
+      "image": "",
+      "text": "Добавлен счетчик арестованных игроков приколом"
     }
   ]
 }
